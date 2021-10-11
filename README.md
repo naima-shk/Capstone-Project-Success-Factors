@@ -20,5 +20,5 @@
 ## How to run code in this repo?
 - To run this app, click live github website link given below.
 - Live link:
-- Repo Link: https://github.com/naima-shk/Capstone-Project
+- Repo Link: https://github.com/naima-shk/Capstone-Project-Success-Factors
 
